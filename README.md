@@ -1,1 +1,3 @@
-# dsl
+# Scaffolder DSL
+
+Industry first modeling language based on developer friendly principles. Built by developers for everyone else...
