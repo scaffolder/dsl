@@ -4,7 +4,7 @@ Industry first modeling language based on developer friendly principles. Built b
 
 ## Definition
 
-Scaffolder DSL or SDSL is a concise, declarative and narrow domain specific modeling language for everything related to software design, architecture, development, support, maintenance... Model once and plan, design, develop, run, operate everything, anywhere!
+Scaffolder DSL or SDSL is a concise, declarative and narrow domain specific modeling language for everything related to software design, architecture, development, support, maintenance... Model once and plan, design, develop, run, operate anything, everywhere!
 
 Projects
 
