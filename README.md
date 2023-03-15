@@ -6,40 +6,65 @@ Industry first modeling language based on developer friendly principles. Built b
 
 Scaffolder DSL or SDSL is a concise, declarative and narrow domain specific modeling language for everything related to software design, architecture, development, support, maintenance... Model once and plan, design, develop, run, operate anything, everywhere!
 
-Supports structural and behavior modelling of any software development phase.
+Supports structural and behavior modelling of any software development phase and methodology.
 
 ## Syntax
 
-From the very early releases SDSL is superset of YAML but later will support many other modeling languages like PlantUML, OCL, DOT, TOML, UML, TextUML, BPML ...
+From the very early releases SDSL is superset of YAML but later will support many other great modeling languages like PlantUML, OCL, DOT, TOML, UML, TextUML, BPML...
 
 ## Why YAML?
 
-YAML is very often used for system configuration and it has always been and will continue to be a complete data serialization language that is perfect for modeling structure of data, software systems, its configuration and is ideal for giving meaningful behavior.
+YAML is very often used for system configuration and it has always been and will continue to be a complete data serialization language that is perfect for modeling structure of data and is ideal for giving meaningful behavior to various system components and interaction.
 
-It's either you love or hate YAML but there are also people who "love to hate YAML" and we are working really hard to provide tools to transpile to JSON withing the code editor of choice very easily.
+It's either you love or hate YAML, but there are also people who "love to hate YAML" and we are working really hard to provide tools to transpile to JSON within your code editor of choice very easily.
 
-Projects
+## Convention over Configuration
 
-Apps
+SDSL directly implements [Convention over Configuration](https://en.wikipedia.org/wiki/Convention_over_configuration) as a first principle especially with DRY logic.
 
-Services
+## Basic building blocks
 
-SDLCs
+We call them Scaffolds and they are minimal YAML files to model everything from Organizations, Divisions, Platforms, Products, Projects, Apps, Services and etc...
 
-Workflows
+### Organizations
 
-Steps
+```yaml
+# organization.yaml
+    name: "Scaffolder Ltd."
+    brand: "Scaffolder"
+    address: "123 Developer's Nest, Planet Earth"
+    description: "Developer first application coding and delivery company, shaping the the future of apps development via AI driven coding assistants"
+    website: https://scaffolder.dev/about/company
+```
 
-Frameworks
+### Divisions
 
-Processes
+### Platforms
 
-Microservices
+### Products
 
-Environments
+### Projects
 
-Generators
+### Apps
 
-Templates
+### Services
+
+### SDLCs
+
+### Workflows
+
+### Steps
+
+### Frameworks
+
+### Processes
+
+### Microservices
+
+### Environments
+
+### Generators
+
+### Templates
 
 ...
