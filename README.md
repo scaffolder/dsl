@@ -24,7 +24,7 @@ SDSL directly implements [Convention over Configuration](https://en.wikipedia.or
 
 ## Basic building blocks
 
-We call them Scaffolds and they are minimal YAML files to model everything from Organizations, Divisions, Platforms, Products, Projects, Apps, Services and etc...
+We call them "scaffolds" and they are minimal YAML files to model everything from Organizations, Divisions, Platforms, Products, Projects, Apps, Services and etc...
 
 ### Organizations
 
