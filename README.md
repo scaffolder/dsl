@@ -36,6 +36,7 @@ We call them "scaffolds" and they are minimal YAML files to model everything fro
     address: "123 Developer's Nest, Planet Earth"
     description: "Developer first application coding and delivery company, shaping the the future of apps development via AI driven coding assistants"
     website: https://scaffolder.dev/about/company
+    email: hello@scaffolder.io
 ```
 
 ### Divisions
