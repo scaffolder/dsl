@@ -30,6 +30,7 @@ We call them "scaffolds" and they are minimal YAML files to model everything fro
 
 ```yaml
 # organization.yaml
+# SDSL v0.1.0
     name: "Scaffolder Ltd."
     brand: "Scaffolder"
     address: "123 Developer's Nest, Planet Earth"
