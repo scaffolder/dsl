@@ -6,7 +6,7 @@ Industry first E2E modeling language based on developer friendly principles. Bui
 
 Scaffolder DSL or SDSL is a concise, declarative and narrow domain specific modeling language for everything related to software design, architecture, development, support, maintenance... Model once and plan, design, develop, run, operate anything, everywhere!
 
-Supports structural and behavior modelling of any software development phase and methodology.
+Supports structural and behavior modelling of any software development phase, process, methodology, tool and more.
 
 ## Syntax
 
