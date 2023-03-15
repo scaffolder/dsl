@@ -37,6 +37,7 @@ We call them "scaffolds" and they are minimal YAML files to model everything fro
     description: "Developer first application coding and delivery company, shaping the the future of apps development via AI driven coding assistants"
     website: https://scaffolder.io/ # https://scaffolder.dev/about/company
     email: hello@scaffolder.io
+    github: https://github.com/scaffolder
 ```
 
 ### Divisions
